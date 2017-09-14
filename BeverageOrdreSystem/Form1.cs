@@ -15,7 +15,8 @@ namespace BeverageOrdreSystem
 
         //this is in develop
         //阿羅哈
-        //ㄎㄎㄎ
+        
+        //大家好啊
         public bool focus = true;
        Beveragefactory factory = new Beveragefactory();
       List<OrderDetail> order = new List<OrderDetail>();
