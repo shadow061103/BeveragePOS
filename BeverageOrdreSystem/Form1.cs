@@ -13,7 +13,6 @@ namespace BeverageOrdreSystem
     public partial class Form1 : Form
     {
 
-        //this is in develop
 
         
         //大家好啊
