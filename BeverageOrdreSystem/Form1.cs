@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace BeverageOrdreSystem
 {
     public partial class Form1 : Form
-    {
+    {//hello
         public bool focus = true;
        Beveragefactory factory = new Beveragefactory();
       List<OrderDetail> order = new List<OrderDetail>();
