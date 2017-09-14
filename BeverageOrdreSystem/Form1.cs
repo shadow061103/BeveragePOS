@@ -12,6 +12,7 @@ namespace BeverageOrdreSystem
 {
     public partial class Form1 : Form
     {//hello
+        //aaaaa
         public bool focus = true;
        Beveragefactory factory = new Beveragefactory();
       List<OrderDetail> order = new List<OrderDetail>();
